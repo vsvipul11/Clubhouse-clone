@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Clubhouse Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Over the years social media has been evolving and branching out itself in different forms we went from Myspace to Facebook to Instagram and Snapchat and now audio based apps like Clubhouse are creating a buzz.
+Here's my attempt to clone Clubhouse app, made using React Js and styled components. Its a frontend project made using React Js.
 
 ## Available Scripts
 
