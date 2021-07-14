@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "time": "3:00 PM",
+    "title": "Showcase Talent",
+    "description": " w/Vipul , Vansh, Ram , Rohanroom room for morning reflection, recitation, Chanting, prayer and sound healing freestyle cypher",
+    "images": ["vipul1.jpg", "user-img2.jpg", "user-img.jpg", "user-img2.jpg"]
+  },
+  {
+    "id": 2,
+    "time": "3:00 PM",
+    "title": "Football session",
+    "description": " w/Vipul , Vansh, Ram , Rohan  room room for morning reflection, recitation, Chanting, prayer and sound healing freestyle cypher",
+    "images": ["user-img.jpg", "  vipul1.jpg", "user-img.jpg", "user-img2.jpg"]
+  },
+  {
+    "id": 3,
+    "time": "3:00 PM",
+    "title": "Technology",
+    "description": " w/Vipul , Vansh, Ram , Rohan room room for morning reflection, recitation, Chanting, prayer and sound healing freestyle cypher",
+    "images": ["vipul1.jpg", "user-img2.jpg", "vipul1.jpg", "user-img2.jpg"]
+  },
+  {
+    "id": 4,
+    "time": "3:00 PM",
+    "title": "Apple Introduction",
+    "description": " w/Vipul , Vansh, Ram , Rohanroom room for morning reflection, recitation, Chanting, prayer and sound healing freestyle cypher",
+    "images": ["user-img.jpg", "user-img2.jpg", "user-img.jpg", "user-img2.jpg"]
+  },
+  {
+    "id": 5,
+    "time": "3:00 PM",
+    "title": "Web development",
+    "description": " w/Vipul , Vansh, Ram , Rohan room room for morning reflection, recitation, Chanting, prayer and sound healing freestyle cypher",
+    "images": ["user-img.jpg", "user-img2.jpg", "user-img.jpg", "user-img2.jpg"]
+  },
+  {
+    "id": 6,
+    "time": "3:00 PM",
+    "title": "React",
+    "description": " w/Vipul , Vansh, Ram , Rohan room room for morning reflection, recitation, Chanting, prayer and sound healing freestyle cypher",
+    "images": ["user-img.jpg", "user-img2.jpg", "user-img.jpg", "user-img2.jpg"]
+  },
+  {
+    "id": 7,
+    "time": "3:00 PM",
+    "title": "DSA",
+    "description": " w/Vipul , Vansh, Ram , Rohan room room for morning reflection, recitation, Chanting, prayer and sound healing freestyle cypher",
+    "images": ["user-img.jpg", "user-img2.jpg", "user-img.jpg", "user-img2.jpg"]
+  }
+]

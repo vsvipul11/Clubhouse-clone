@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "DSA",
+    "sub_title": "Learning Data structures and Algorithm",
+    "members": [
+      {
+        "first_name": "Vipul ",
+        "last_name": "Sharma (Moderator)"
+      },
+      {
+        "first_name": "Vansh",
+        "last_name": "Arora"
+      },
+      {
+        "first_name": "Shivam",
+        "last_name": "Singh"
+      },
+      {
+        "first_name": "Random ",
+        "last_name": "abc"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "LOFI MUSCI",
+    "sub_title": "CHILL VIBES",
+    "members": [
+      {
+        "first_name": "Vipul",
+        "last_name": "Sharma (Moderator)"
+      },
+      {
+        "first_name": "Rahul",
+        "last_name": " abc"
+      },
+      {
+        "first_name": "Vansh",
+        "last_name": "Arora"
+      },
+      {
+        "first_name": "Shivam",
+        "last_name": "Singh"
+      },
+      {
+        "first_name": "Rasik",
+        "last_name": "Bhat"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": " Tech related stuff",
+    "sub_title": "The journey",
+    "members": [
+      {
+        "first_name": "Gagan",
+        "last_name": " (Moderator)"
+      },
+      {
+        "first_name": "Rahul",
+        "last_name": "Khan"
+      },
+      {
+        "first_name": "Shyam ",
+        "last_name": ""
+      },
+      {
+        "first_name": "Shivam",
+        "last_name": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "React tutorials",
+    "sub_title": "web development classes",
+    "members": [
+      {
+        "first_name": "Vansh",
+        "last_name": "Arora (Moderator)"
+      },
+      {
+        "first_name": "Shivam ",
+        "last_name": "Singh"
+      },
+      {
+        "first_name": "Vipul",
+        "last_name": "Sharma"
+      },
+      {
+        "first_name": "Gagandeep",
+        "last_name": "Singh"
+      }
+    ]
+  }
+]
